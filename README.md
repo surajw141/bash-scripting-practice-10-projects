@@ -48,4 +48,4 @@ If you found these scripts helpful or have suggestions for optimization, feel fr
 
 GitHub: [surajw141](https://github.com/surajw141)
 
-Portfolio: [Suraj's Portfolio](https://surajw141.github.io/)
+Portfolio: [Suraj's Portfolio](https://surajw141.github.io/portfolio/)
